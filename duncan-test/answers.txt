@@ -1,0 +1,11 @@
+Notes:
+
+- For the sake of efficiency I have only included the theme files here.
+- To add WYSIWYG custom-fields into the Recipes custom post type, I would use the 'Advanced Custom Fields' plugin.
+- I would consume the data using the Wordpress REST API, parsing the JSON file using PHP or Javascript
+
+Answers:
+
+1. I find the now compulsory cookie notices by far the least user-friendly aspect of any website. I would make every effort to prevent these notices from intruding on the user experience and/or site layout and functionality by keeping their size to a minimum, colours subdued and transparent, UI subtle and gentle, and positioning them on the sidelines.
+
+2. I would ensure that my colleague and I were using the same version/branch of the code and the same browser version.

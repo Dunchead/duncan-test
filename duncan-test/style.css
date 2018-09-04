@@ -1,0 +1,143 @@
+
+body {
+    margin: 0;
+    font-family: "Helvetica", Arial, sans-serif;
+    color: #00698F;
+}
+
+header {
+    width: 100%;
+    height: 444px;
+    background-color: #00698F;
+    position: relative;
+    padding: 0;
+}
+
+#tri {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.inner {
+    width: 1170px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
+
+nav {
+    padding: 20px 0;
+    position: relative;
+    display: block;
+}
+
+#logo {
+    width: 200px;
+}
+
+#menu {
+    position: absolute;
+    right: 0;
+    width: 40px;
+}
+
+#title {
+    position: absolute;
+    right: 0;
+    padding: 50px 0;
+    width: 70%;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: normal;
+    text-align: right;
+    color: #ffffff;
+}
+
+#subtitle {
+    width: 70%;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: normal
+}
+
+p {
+    font-size: 24px;
+    line-height: 1.2em;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: normal;
+}
+
+#cols {
+    margin-top: 50px;
+    display: block;
+}
+
+.third {
+    width: 370px;
+    margin-right: 20px;
+    display: inline-block;
+    float: left;
+}
+
+.third:last-of-type {
+    margin-right: 0;
+}
+
+.thumb-box {
+    width: 100%;
+    height: 230px;
+    overflow: hidden;
+}
+
+.thumb {
+    width: 100%;
+    height: 230px;
+}
+
+.blue-btn {
+    background-color: #00698F;
+    color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+    border: none;
+    display: block;
+    -webkit-transition: all 400ms ease;
+    -moz-transition: all 400ms ease;
+    -o-transition: all 400ms ease;
+    transition: all 400ms ease;
+}
+
+.blue-btn:hover {
+    border: #00698F 2px solid;
+    color: #00698F;
+    background-color: #ffffff;
+}
+
+.caption {
+    display: block;
+    height: 300px;
+    position: relative;
+}
+
+footer {
+    position: relative;
+    display: block;
+    height: 100px;
+}
+
+.clear {
+    clear: both;
+}
